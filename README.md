@@ -36,6 +36,8 @@ Any found .m3u8 links will be shown in the list below.
 Start downloads
 Click "Start all downloads", choose a target folder, and the videos will be downloaded as .mp4.
 
+https://youtu.be/nSYxPpSLFUM
+
 Pyinstaller
 pyinstaller --onefile --windowed main.py
 
