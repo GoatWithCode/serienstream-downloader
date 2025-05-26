@@ -38,3 +38,5 @@ Click "Start all downloads", choose a target folder, and the videos will be down
 
 Pyinstaller
 pyinstaller --onefile --windowed main.py
+
+You can download the Binary here: https://c.gmx.net/@329938113155568689/V4J8XxQBHK3rK8gnKfrfRw
